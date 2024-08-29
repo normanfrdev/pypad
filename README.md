@@ -1,2 +1,4 @@
 # pypad
-Minimal python notepad.
+## Minimal Python notepad.
+
+Made possible with tkinter and other base libraries.
